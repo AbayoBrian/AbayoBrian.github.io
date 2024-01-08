@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abayo Brian| Data Scientist | Python SQL ML | Help businesses make data-driven decisions and build AI-Powered data products.</h1>
-<h3 align="center">A passionate Data Scientist from Kenya</h3>
+<h3 align="center">A passionate Data Science Student from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abayobrian&label=Profile%20views&color=0e75b6&style=flat" alt="abayobrian" /> </p>
 
@@ -23,6 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://twitter.com/brianabayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brianabayo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abayo_brian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abayo_brian" height="30" width="40" /></a>
 <a href="https://kaggle.com/brian owino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="brian owino" height="30" width="40" /></a>
 <a href="https://fb.com/brian abayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brian abayo" height="30" width="40" /></a>
