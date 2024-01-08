@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abayo Brian</h1>
+<h1 align="center">Hi 👋, I'm Abayo Brian| Data Scientist | Python SQL ML | Help businesses make data-driven decisions and build AI-Powered data products.</h1>
 <h3 align="center">A passionate Data Scientist from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abayobrian&label=Profile%20views&color=0e75b6&style=flat" alt="abayobrian" /> </p>
