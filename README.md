@@ -37,10 +37,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abayobrian&show_icons=true&locale=en" alt="abayobrian" /></p>
 
 
-https://github.com/AbayoBrian/AbayoBrian.github.io/assets/127931777/26d9f4aa-d143-488a-9ea1-57ef60ffb550
-
 <img alt="machine_learning" width="400" src="https://github.com/AbayoBrian/AbayoBrian.github.io/assets/127931777/ec26d2e7-ffc3-4a2b-8a2b-66c29aa8d1ab"> <img width="600" src="https://github.com/AbayoBrian/AbayoBrian.github.io/assets/127931777/07031e1c-2052-44a5-ac46-8fd282e12645">
 
-
+<h3><b>"Turn your dreams into goals, your goals into plans, and your plans into reality. Embrace challenges, learn from failures, and let each step forward be a testament to your persistence. You have the power to shape your journey; make it extraordinary." 🚀💻✨</h3></b>
 
 
