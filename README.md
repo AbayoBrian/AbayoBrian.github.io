@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abayobrian" alt="abayobrian" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning Project Crop Recommendation System Python Project.**
+- 🔭 I’m currently working on **Machine Learning Project (Crop Recommendation System Python Project).**
 
 - 🌱 I’m currently learning **Cloud and Big data analytics,Time Series Data Analysis,Computational Systems Biology, Data Science Practicum, Complex Networks analysis, Mobile Application Development and Real Analysis.**
 
