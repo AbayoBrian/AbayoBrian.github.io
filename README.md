@@ -36,3 +36,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abayobrian&show_icons=true&locale=en" alt="abayobrian" /></p>
 
 
+https://github.com/AbayoBrian/AbayoBrian.github.io/assets/127931777/26d9f4aa-d143-488a-9ea1-57ef60ffb550
+
+![image](https://github.com/AbayoBrian/AbayoBrian.github.io/assets/127931777/bae3d13e-5900-4375-914c-00876e66b7bc)
+
+
+
